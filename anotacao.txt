@@ -3,3 +3,7 @@ git commit -m "tipo de alteração"
 git push
 
 npm run web - para abrir a aba na web
+
+Package.json 
+//não funcionou no meu 
+    // "server": "env ytdl_no_update=1 node --watch --no-warnings server/index.js"
